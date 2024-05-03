@@ -68,3 +68,5 @@ sp4  <- read.delim("mutant_rep1.rawcount")
 sp5  <- read.delim("mutant_rep2.rawcount")
 sp6  <- read.delim("mutant_rep3.rawcount")
 DEGfind("WT","mutant","1.5","2","0.05","0.01")
+####
+#The specific threshold can be changed in the code above.
