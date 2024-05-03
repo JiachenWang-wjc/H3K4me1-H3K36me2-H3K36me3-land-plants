@@ -1,1 +1,1 @@
-This is the High throughput sequencing omics data code for "H3K4me1 directs the establishment of H3K36me2 and H3K36me3 in land plants".The generic code is placed in its own folder, and the personalized analysis method is integrated separately.
+This is the High throughput sequencing omics data code for "H3K4me1 directs the establishment of H3K36me2 and H3K36me3 in land plants". The generic code is placed in its own folder, and the personalized analysis method is integrated separately.
